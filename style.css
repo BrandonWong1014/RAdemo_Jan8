@@ -1,0 +1,30 @@
+.banner {
+position: relative;
+display:inline-block;
+}
+
+.banner img{ 
+display:block; 
+width: 100%;
+height: auto;
+}
+
+.heading{
+position: absolute;
+top: 0;
+color: White;
+}
+
+.heading h2{
+font-size:60px;
+}
+
+.heading p{
+font-size:20px;
+}
+
+button{
+position: relative; 
+margin: 30px auto 0;
+cursor: pointer;
+}
